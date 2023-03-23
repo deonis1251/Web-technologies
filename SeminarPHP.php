@@ -7,7 +7,7 @@ $phone = +79889992299;
 $skills = 
 	[
     	'name' => ['Фотошоп', 'Иллюстратор', 'Медиа', 'Танцы'],
-    	'percent' => [30, 70, 40, 57]    
+    	'percent' => [30, 70, 40, 57]  
 	];
 $ageYears = 2023-1998;
 $ageDays = (2023-1998)*365;
@@ -93,7 +93,7 @@ $ageDays = (2023-1998)*365;
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>Lorem ipsum dolor
 
-Sofiya 🐉🕷️, [20.03.2023 20:11]
+
 <!-- Right Column -->
     <div class="w3-twothird">
     
