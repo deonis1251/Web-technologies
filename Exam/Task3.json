@@ -1,0 +1,113 @@
+{
+    "user":
+    [
+        {
+            "name": "Denis",
+            "age": 25,
+            "address": "Rostov-on-Don",
+            "gender": "male"
+        },
+        {
+            "name": "Joseph",
+            "age": 21,
+            "address": "Mikhalovka",
+            "gender": "male"
+        },
+        {
+            "name": "George",
+            "age": 18,
+            "address": "Moskow",
+            "gender": "male"
+        },
+        {
+            "name": "Maria",
+            "age": 21,
+            "address": "Krasnodar",
+            "gender": "female"
+        },
+        {
+            "name": "Evgenii",
+            "age": 20,
+            "address": "Sochi",
+            "gender": "male"
+        },
+        {
+            "name": "Evgenii",
+            "age": 20,
+            "address": "Sochi",
+            "gender": "male"
+        },
+        {
+            "name": "Nina",
+            "age": 30,
+            "address": "Anapa",
+            "gender": "female"
+        },
+        {
+            "name": "Valerii",
+            "age": 25,
+            "address": "Cherepanovo",
+            "gender": "male"
+        },
+        {
+            "name": "Sergei",
+            "age": 28,
+            "address": "Volgograd",
+            "gender": "male"
+        },
+        {
+            "name": "Sonya",
+            "age": 24,
+            "address": "Moskow",
+            "gender": "female"
+        },
+        {
+            "name": "Evgenii",
+            "age": 27,
+            "address": "Moskow",
+            "gender": "male"
+        },
+        {
+            "name": "Alex",
+            "age": 35,
+            "address": "Gelendjik",
+            "gender": "male"
+        },
+        {
+            "name": "Roman",
+            "age": 26,
+            "address": "Rostov-on-Don",
+            "gender": "male"
+        },
+        {
+            "name": "Vitaly",
+            "age": 19,
+            "address": "St.Peterbirg",
+            "gender": "male"
+        },
+        {
+            "name": "Nikita",
+            "age": 32,
+            "address": "Kazan",
+            "gender": "male"
+        },
+        {
+            "name": "Sofia",
+            "age": 21,
+            "address": "Moskow",
+            "gender": "female"
+        },
+        {
+            "name": "Alexan",
+            "age": 29,
+            "address": "Krasnodar",
+            "gender": "male"
+        },
+        {
+            "name": "Kirill",
+            "age": 36,
+            "address": "St.Peterbirg",
+            "gender": "male"
+        }
+    ]
+}
