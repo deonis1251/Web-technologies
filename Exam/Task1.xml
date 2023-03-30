@@ -1,0 +1,15 @@
+<req>
+	<usres>
+        <user>
+            <surname>Иванов</surname>
+            <name>Иван</name>
+            <patronymic>Иванович</patronymic>
+            <birthdate>01.01.1990</birthdate>
+            <birthplace>Москва</birthplace>
+            <phone>
+                <country>+7</country>
+                <number>9267664848</number>
+            </phone>
+        </user>
+	</usres>
+</req>
