@@ -1,0 +1,169 @@
+# <?xml version = "1.0"?>
+# <catalog>
+# 	<book>
+# 		<title>Камил видит пуками</title>
+# 		<author>Томаш Малковски</author>
+# 		<pages>146</pages>
+# 		<date>2019</date>
+# 		<price>863</price>
+# 	</book>
+# 	<book>
+# 		<title>Вероятности и неприятности</title>
+# 		<author>Сергей Самойленко</author>
+# 		<pages>134</pages>
+# 		<date>2022</date>
+# 		<price>1055</price>
+# 	</book>
+# 	<book>
+# 		<title>Каогда жизнь сбивает с ног</title>
+# 		<author>Расс Хэррис</author>
+# 		<pages>80</pages>
+# 		<date>2021</date>
+# 		<price>945</price>
+# 	</book>
+# 	<book>
+# 		<title>Цветы в темноте</title>
+# 		<author>Сестра Данг Нгием</author>
+# 		<pages>124</pages>
+# 		<date>2020</date>
+# 		<price>1027</price>
+# 	</book>
+# 	<book>
+# 		<title>Стратегии перемен</title>
+# 		<author>Джон Коттер</author>
+# 		<pages>102</pages>
+# 		<date>2022</date>
+# 		<price>1418</price>
+# 	</book>
+# </catalog>
+
+
+# ЗАДАНИЕ 2
+
+# {
+#   "catalog": [
+#     {
+#       "product": "Яблоки",
+#       "weight": 1000,
+#       "group": "Фрукты",
+#       "price": 150,
+#       "numOfStrg": 1
+#     },
+#     {
+#       "product": "Картошка ранняя",
+#       "weight": 5000,
+#       "group": "Овощи",
+#       "price": 320,
+#       "numOfStrg": 2
+#     },
+#     {
+#       "product": "Бананы",
+#       "weight": 1000,
+#       "group": "Фрукты",
+#       "price": 99,
+#       "numOfStrg": 1
+#     },
+#     {
+#       "product": "Баунти мими",
+#       "weight": 100,
+#       "group": "Кондитерские изделия",
+#       "price": 180,
+#       "numOfStrg": 3
+#     }
+#   ]
+# }
+
+# ЗАДАНИЕ 3
+
+# <?xml version = "1.0"?>
+# <students>
+# 	<student>
+# 		<fio>
+# 			<firstname>Карпова</firstname>
+# 			<lastname>Анна</lastname>
+# 			<patronymic>Александровна</patronymic>
+# 		</fio>
+# 		<birthday>2008</birthday>
+# 		<class>
+# 			<number>8</number>
+# 			<letter>А</letter>
+# 		</class>
+# 		<address>
+# 			<city>Москва</city>
+# 			<street>Ленинский проспект</street>
+# 			<house>2</house>
+# 			<flat>277</flat>
+# 		</address>
+# 	</student>
+# 	<student>
+# 		<fio>
+# 			<firstname>Малышкин</firstname>
+# 			<lastname>Михаил</lastname>
+# 			<patronymic>Иванович</patronymic>
+# 		</fio>
+# 		<birthday>2014</birthday>
+# 		<class>
+# 			<number>2</number>
+# 			<letter>Б</letter>
+# 		</class>
+# 		<address>
+# 			<city>Москва</city>
+# 			<street>Ленинградское шоссе</street>
+# 			<house>10</house>
+# 			<flat>56</flat>
+# 		</address>
+# 	</student>
+# 	<student>
+# 		<fio>
+# 			<firstname>Андреева</firstname>
+# 			<lastname>Алла</lastname>
+# 			<patronymic>Петровна</patronymic>
+# 		</fio>
+# 		<birthday>2015</birthday>
+# 		<class>
+# 			<number>1</number>
+# 			<letter>Г</letter>
+# 		</class>
+# 		<address>
+# 			<city>Москва</city>
+# 			<street>Дмитровское шоссе</street>
+# 			<house>107</house>
+# 			<flat>2</flat>
+# 		</address>
+# 	</student>
+# </students>
+
+
+# ЗАДАНИЕ 4
+
+# {
+#   "user": [
+#     {
+#       "name": "Иван",
+#       "surename": "Иванов",
+#       "age": 37,
+#       "habits": [
+#         "рыбалка",
+#         "охота",
+#         "футбол"
+#       ],
+#       "married": true,
+#       "children": [
+#         "Мария",
+#         "Николай"
+#       ]
+#     },
+#     {
+#       "name": "Ольга",
+#       "surename": "Фролова",
+#       "age": 21,
+#       "habits": [
+#         "путешествия",
+#         "вышивание"
+#       ],
+#       "married": true,
+#       "children": null
+#     }
+#   ]
+# }
+
